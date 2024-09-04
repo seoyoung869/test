@@ -23,6 +23,9 @@ li{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    color: white;
+
+    
 }
 .logo1{
     width: 200px;
@@ -32,24 +35,24 @@ li{
     text-align: center;
 
 
-
 }
 .menu{
     width: 400px;
     height: 100px;
     display: flex;
     align-items: center;
-
+   
 
 
 }
 .menu li{
     width: 100px;
     text-align: center;
-
-
+    
 }
-
+.menu li a{
+  color: white;
+}
 .main{
     width: 600px;
     height: 400px;
